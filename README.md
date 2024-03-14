@@ -1,4 +1,4 @@
-#Simple Flask App
+# Simple Flask App
 
 To run the Flask app via Docker Follow the steps below:
 
